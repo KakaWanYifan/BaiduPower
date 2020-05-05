@@ -13,4 +13,7 @@ f1-score 1.0000
 > 经典机器学习及其Python实现：06-KNN
 > https://kakawanyifan.com/computer/python-classical-machine-learning/06-KNN/
 
+> 经典机器学习及其Python实现：07-交叉验证和网格搜索
+> https://kakawanyifan.com/computer/python-classical-machine-learning/07-gridsearch-cv/
+
 以这个比赛为例，新增了部分代码。新增的代码都在`kakawanyifan.com`这个目录下。
