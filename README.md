@@ -10,7 +10,7 @@ f1-score 1.0000
 
 2020年5月，写个人博客文章
 
-> 经典机器学习的Python实现：06-KNN
+> 经典机器学习及其Python实现：06-KNN
 > https://kakawanyifan.com/computer/python-classical-machine-learning/06-KNN/
 
 以这个比赛为例，新增了部分代码。新增的代码都在`kakawanyifan.com`这个目录下。
