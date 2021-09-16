@@ -9,12 +9,12 @@ f1-score 1.0000
 2020年5月，写个人博客文章
 
 > 经典机器学习及其Python实现：06-KNN
-> https://kakawanyifan.com/computer/python-classical-machine-learning/06-KNN/
+> https://kakawanyifan.com/10206
 
 > 经典机器学习及其Python实现：07-交叉验证和网格搜索
-> https://kakawanyifan.com/computer/python-classical-machine-learning/07-gridsearch-cv/
+> https://kakawanyifan.com/10207
 
 > 经典机器学习及其Python实现：13-逻辑回归
-> https://kakawanyifan.com/computer/python-classical-machine-learning/13-logistic-regression/
+> https://kakawanyifan.com/10213
 
 以这个比赛为例，新增了部分代码。新增的代码都在`kakawanyifan.com`这个目录下。
